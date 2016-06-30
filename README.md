@@ -6,3 +6,5 @@ merge from master to b1
 aaaa
 
 let's fork and merge.
+
+123abc
